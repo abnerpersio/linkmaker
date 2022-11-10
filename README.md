@@ -1,2 +1,3 @@
-# linkAdor
-Sistema que cria e gerencia páginas de links de empresas
+# Link Maker
+
+Meu gerenciador de links feito com Next.JS
